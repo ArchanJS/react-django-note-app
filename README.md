@@ -1,5 +1,15 @@
 # react-django-note-app
 
+## Features :
+
+ • Signup and Login
+
+ • User authentication
+
+ • Note creation, updation and deletion
+
+ • Searching notes
+
 ## Tech Stack and libraries used :
 
  • React
