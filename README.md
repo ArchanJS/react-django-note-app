@@ -1,4 +1,4 @@
-# react-django-note-app
+# Note app
 
 ## Features :
 
